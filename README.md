@@ -4,7 +4,7 @@ Defense shield for payment sysytem testing
  
  🛡️ Payment-Firewall 
 中小企业支付系统防护解决方案  
-(https://github.com/GreatccUp/Payment-Firewall/stargazers)
+(https://t.zsxq.com/aYHhy)
 (链接星球)
 
 📌 为什么选择我们？
@@ -72,7 +72,7 @@ legal
  
 立刻行动：  
 (https://github.com/GreatccUp/Payment-Firewall)
-(星球链接)
+([星球链接](https://t.zsxq.com/aYHhy))
 加入知识星球
 
 
