@@ -79,7 +79,7 @@ def verify_signature(sign, params):
 🛠️ 防护工具箱
 立即获取：
 ```tool-list
-1. 《支付系统19大攻击向量》手册 → 加入星球免费领  
+1. 《支付系统19大攻击向量》手册 → 加入星球免费领  https://t.zsxq.com/aYHhy
 2. 一键部署Mock环境脚本 → GitHub Release页面  
 3. 专家答疑绿色通道 → 微信扫码咨询  
 ```
